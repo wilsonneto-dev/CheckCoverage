@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<PackAsTool>true</PackAsTool>
+	<ToolCommandName>checkcoverage</ToolCommandName>
+	<PackageOutputPath>./nupkg</PackageOutputPath>
+	<Authors>Wilson Neto</Authors>
+	<Company>Rocket 64</Company>
+	<PackageId>CheckCoverage</PackageId>
+	<Version>1.0.2</Version>
+	<PackageTags>Tests, Coverage</PackageTags>
+  </PropertyGroup>
+
+</Project>

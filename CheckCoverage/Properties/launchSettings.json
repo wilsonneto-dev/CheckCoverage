@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CheckCoverage": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\wn_br\\OneDrive\\Área de Trabalho\\Code Coverage Report_151\\Code Coverage Report_151\\summary151\\Cobertura.xml\" 0.9"
+    }
+  }
+}
